@@ -19,7 +19,8 @@ Kaggle: [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/ml
 Out of 284,807 transactions:
 - ~492 labeled frauds
 - Ensemble detected ~88% of frauds with minimal false positives
-- Class 0: Legitimate Transactions
+
+-Class 0: Legitimate Transactions
     Precision: 1.00 – The model is perfect at identifying genuine transactions.
     Recall: 0.96 – It correctly identifies 96% of all genuine transactions.
     F1-Score: 0.98 – Strong balance between precision and recall.
